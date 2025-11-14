@@ -1,0 +1,265 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.j-content {
+    justify-content: space-between;
+}
+
+.j-content.a {
+    justify-content: space-around;
+}
+
+.j-content-c {
+    justify-content: center;
+}
+
+.j-content-s {
+    justify-content: start;
+}
+
+.f-direction {
+    flex-direction: column;
+}
+
+.font {
+    font-family: "Epilogue", sans-serif;
+    color: #f5deb3;
+}
+
+.navlist {
+    justify-content: space-between;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.text-align {
+    text-align: center;
+}
+
+a {
+    color: wheat;
+    padding: 15px;
+}
+
+#logo {
+    max-width: 200px;
+    max-height: 100px;
+}
+
+h1 {
+    font-size: 60px;
+    background: -webkit-linear-gradient(#7a5a3e, #edd0b4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.background {
+    background-color: rgb(11, 11, 11);
+    height: 600px
+}
+
+.container {
+    margin: auto;
+    max-width: 1200px;
+}
+
+#headerpara {
+    font-size: 17.33327865600586px;
+    line-height: 26px;
+}
+
+#para {
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.headerbtn {
+    text-decoration: none;
+    background-color: wheat;
+    color: rgb(0, 0, 0);
+    padding: 20px 50px;
+}
+
+#devis {
+    margin-top: 60px;
+}
+
+.size {
+
+    font-weight: bold;
+    color: rgb(11, 11, 11);
+    font-size: 28px;
+}
+
+.container2 {
+    justify-content: center;
+}
+
+.section2 {
+    color: rgb(11, 11, 11);
+    margin-top: 45px;
+    /* letter-spacing: 1px; */
+}
+
+.background-1 {
+    background-color: black;
+}
+
+.logodiv {
+    padding: 70px;
+    justify-content: space-between;
+}
+
+#place {
+    margin-top: 10px;
+}
+
+.cards {
+    color: rgb(11, 11, 11);
+    font-size: 18px;
+    width: 400px;
+    height: 480px;
+}
+
+.imgsize {
+    width: 300px;
+    height: 300px;
+}
+
+.bgcolor {
+    background-color: #f0dcc559;
+}
+
+.f-wrap {
+    flex-wrap: wrap;
+}
+
+.margin {
+    margin-top: 30px;
+}
+
+.cardscontainer {
+    justify-content: center;
+    margin-left: 80px;
+}
+
+.sectionmargin {
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+.pfp {
+    border-radius: 100px;
+    width: 40px;
+    height: 40px;
+}
+
+.text-color {
+    color: black;
+}
+
+.conteneur {
+    font-weight: bold;
+    padding: 20px;
+    background-color: #c2beba59;
+    width: 250px;
+    height: 420px;
+    line-height: 25px;
+}
+
+.profil {
+    margin-top: 50px;
+}
+
+.bgcolorfooter {
+    background-color: rgb(11, 11, 11);
+}
+
+body {
+    margin: 0px;
+}
+
+#h2footer {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.divfooter {
+    width: 350px;
+}
+
+.form {
+    font-size: 17px;
+    font-weight: normal;
+}
+
+.justify-contentdiv {
+    justify-content: space-between;
+}
+
+#size {
+    font-size: 17px;
+    width: 410px;
+}
+
+#footerbtn {
+    margin-top: 20px;
+    padding: 15px 55px;
+}
+
+.formsize {
+    font-size: 20px;
+}
+
+.footerbackground {
+    background-color: rgb(11, 11, 11);
+    height: 300px
+}
+
+.fa-brands {
+    padding-right: 20px;
+}
+
+.inputfooter {
+    padding: 10px 80px;
+    margin-bottom: 10px;
+}
+
+.imgprofil {
+    width: 70px;
+    height: 70px;
+}
+
+.profilscard {
+    background-color: #e7dbce;
+    color: rgb(11, 11, 11);
+    font-size: 18px;
+    width: 400px;
+    height: 430px;
+    margin: 30px;
+    padding: 40px;
+}
+
+.marginbottomcards {
+    margin-bottom: 90px;
+}
+
+.fontsizecards {
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 35px;
+}
+
+.spacecards {
+    margin-left: 20px;
+    line-height: 15px;
+}
+
+#marginbottomcard {
+    margin-bottom: 30px;
+}
