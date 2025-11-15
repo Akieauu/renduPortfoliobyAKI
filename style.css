@@ -2,16 +2,21 @@ html {
     scroll-behavior: smooth;
 }
 
+.hover {
+    background-color: rgb(11, 11, 11);
+    transition: background-color 0.5s;
+}
+
+.hover:hover {
+    background-color: #7a5a3e;
+}
+
 .d-flex {
     display: flex;
 }
 
 .j-content {
     justify-content: space-between;
-}
-
-.j-content.a {
-    justify-content: space-around;
 }
 
 .j-content-c {
@@ -33,7 +38,6 @@ html {
 
 .navlist {
     justify-content: space-between;
-    text-decoration: none;
     font-size: 17px;
     font-weight: bold;
 }
@@ -104,11 +108,10 @@ h1 {
 .section2 {
     color: rgb(11, 11, 11);
     margin-top: 45px;
-    /* letter-spacing: 1px; */
 }
 
 .background-1 {
-    background-color: black;
+    background-color: rgb(11, 11, 11);
 }
 
 .logodiv {
@@ -160,7 +163,7 @@ h1 {
 }
 
 .text-color {
-    color: black;
+    color: rgb(11, 11, 11);
 }
 
 .conteneur {
